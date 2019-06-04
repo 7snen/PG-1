@@ -1,6 +1,6 @@
-owner=413660639668731914
+owner=490871722011131935
 prefix=1
-game=1play|#Riyderz
+game=1play|#PG.Community
 stayinchannel=false
 songinstatus=false
-token=NTc4NTQzMjExOTMzNTk3Njk2.XN1IeQ.3Ywl4fcjFG1iK91fj0q8WFUbiUM
+token=NTg1NTQwNTYwODY2MjQ2NjU2.XPa9Mg.SZh2CoW86naHHMGuY5TvNxTXB_c
